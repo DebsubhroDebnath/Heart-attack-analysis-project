@@ -6,7 +6,7 @@ Main Objective:
 - Building a machine learning model to predict the risk of heart attacks based on patients' health conditions using various medical features
 
 Dataset Overview:
-The dataset contains 303 patient records with 14 features including:
+The dataset includes :
 1. Demographic data:
    - Age (in years)
    - Gender (0 = female, 1 = male)
